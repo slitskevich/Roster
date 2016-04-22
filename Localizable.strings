@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Roster
+
+  Created by slava litskevich on 7/6/15.
+  Copyright (c) 2015 litskevich. All rights reserved.
+*/
+
+"error.title" = "Error";
+"error.data_load_failed" = "Failed to load data";
+"error.cancel" = "Cancel";
