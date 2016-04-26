@@ -12,7 +12,7 @@
 @interface RSTGroup()
 
 @property (nonatomic) NSString *groupName;
-@property (nonatomic) NSMutableArray *people;
+@property (nonatomic) NSArray *people;
 
 @end
 
